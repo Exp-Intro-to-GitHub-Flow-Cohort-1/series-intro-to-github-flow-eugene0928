@@ -13,10 +13,8 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
-<!--
   <<< Author notes: Finish >>>
   Review what we learned, ask for feedback, provide next steps.
--->
 
 ## Finish
 
@@ -49,13 +47,6 @@ Check out these resources to learn more or get involved:
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
 <footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
 
 Get help: [Post in our discussion board](https://github.com/orgs/community/discussions/categories/github-education) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
